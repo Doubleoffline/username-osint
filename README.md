@@ -58,4 +58,16 @@ The tool currently supports the following websites:
 -Slideshare
 -StackExchange
 
-## Installation For Linux <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></p><p align="center">
+#### This Tool Must Run As ROOT !!!
+
+    git clone https://github.com/Z4nzu/hackingtool.git
+    
+    chmod -R 755 hackingtool  
+    
+    cd hackingtool
+    
+    sudo pip3 install -r requirement.txt
+    
+    bash install.sh
+    
+    sudo hackingtool
